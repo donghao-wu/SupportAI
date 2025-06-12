@@ -1,4 +1,5 @@
 # SupportAI
 
-**DeepSeek API**: sk-4d1a11f3207441cea01707b9d7e00685
-**Elevenlab API**: sk_b5e6bc1d72c4a2c68aaa2ed83f3d9479b31342eb4afaa481
+- **DeepSeek API**: sk-4d1a11f3207441cea01707b9d7e00685
+- **Elevenlab API**: sk_b5e6bc1d72c4a2c68aaa2ed83f3d9479b31342eb4afaa481
+- **OpenAI API**: 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
